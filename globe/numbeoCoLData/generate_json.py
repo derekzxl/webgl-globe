@@ -24,9 +24,20 @@ year[4] = []
 year[5] = []
 year[6] = []
 
+sums = {}
+sums[0] = 35373.59
+sums[1] = 31152.66
+sums[2] = 34881.52
+sums[3] = 27839.66
+sums[4] = 20608.45
+sums[5] = 8842.88
+sums[6] = 16171.04
+
+
+
 for x in range(7):
 	for lat, lon, col, in lines[x]:
-		year[x] += (lat, lon, col)
+		year[x] += (lat, lon, str( float(col) / sums[x] ))
     
 
 print """
