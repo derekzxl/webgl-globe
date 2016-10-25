@@ -1,0 +1,340 @@
+Stavanger, Norway
+Trondheim, Norway
+Oslo, Norway
+Bergen, Norway
+Zurich, Switzerland
+Geneva, Switzerland
+Luanda, Angola
+Basel, Switzerland
+Lausanne, Switzerland
+Bern, Switzerland
+Perth, Australia
+Sydney, Australia
+Canberra, Australia
+Hobart, Australia
+Darwin, Australia
+Brisbane, Australia
+Melbourne, Australia
+Lugano, Switzerland
+Stockholm, Sweden
+Arhus, Denmark
+Paris, France
+Copenhagen, Denmark
+Luxembourg, Luxembourg
+Adelaide, Australia
+Tokyo, Japan
+Dublin, Ireland
+Auckland, New Zealand
+Bristol, United Kingdom
+The Hague, Netherlands
+Wellington, New Zealand
+Antwerp, Belgium
+Southampton, United Kingdom
+London, United Kingdom
+Caracas, Venezuela
+Gold Coast, Australia
+Aberdeen, United Kingdom
+Nassau, Bahamas
+Edinburgh, United Kingdom
+Cairns, Australia
+Cork, Ireland
+Florence, Italy
+Christchurch, New Zealand
+Helsinki, Finland
+Reykjavik, Iceland
+Brussels, Belgium
+Manchester, United Kingdom
+Padova, Italy
+Glasgow, United Kingdom
+Cambridge, United Kingdom
+Calgary, Canada
+Genoa, Italy
+Oxford, United Kingdom
+Tampere, Finland
+Malmo, Sweden
+Reading, United Kingdom
+Toulouse, France
+Regina, Canada
+Vancouver, Canada
+Amsterdam, Netherlands
+Strasbourg, France
+Trieste, Italy
+Gothenburg, Sweden
+Singapore, Singapore
+Milan, Italy
+Washington, DC, United States
+Rotterdam, Netherlands
+Edmonton, Canada
+Munich, Germany
+Nicosia, Cyprus
+Galway, Ireland
+Utrecht, Netherlands
+Bologna, Italy
+Nice, France
+Lyon, France
+Toronto, Canada
+Eindhoven, Netherlands
+Birmingham, United Kingdom
+Liverpool, United Kingdom
+Saskatoon, Canada
+Dusseldorf, Germany
+Anchorage, AK, United States
+Rome, Italy
+Leeds, United Kingdom
+Brighton, United Kingdom
+Ottawa, Canada
+Venice, Italy
+Newcastle Upon Tyne, United Kingdom
+Halifax, Canada
+Stuttgart, Germany
+Turin, Italy
+Hamburg, Germany
+Nottingham, United Kingdom
+Frankfurt, Germany
+Boston, MA, United States
+New York, NY, United States
+Lagos, Nigeria
+Naples, Italy
+Honolulu, HI, United States
+Vienna, Austria
+Limassol, Cyprus
+Belfast, United Kingdom
+Waterloo, Canada
+Victoria, Canada
+Tel Aviv-yafo, Israel
+San Francisco, CA, United States
+Hamilton, Canada
+Athens, Greece
+Quebec City, Canada
+Richmond, VA, United States
+Cologne, Germany
+Philadelphia, PA, United States
+Winnipeg, Canada
+Kitchener, Canada
+Miami, FL, United States
+London, Canada
+Haifa, Israel
+Barcelona, Spain
+Jerusalem, Israel
+Seattle, WA, United States
+Sliema, Malta
+Minneapolis, MN, United States
+Montreal, Canada
+Thessaloniki, Greece
+Cardiff, United Kingdom
+Manama, Bahrain
+Kuwait City, Kuwait
+Bilbao, Spain
+Marbella, Spain
+Akron, OH, United States
+Cleveland, OH, United States
+Buffalo, NY, United States
+Madrid, Spain
+Las Vegas, NV, United States
+Nuremberg, Germany
+San Jose, CA, United States
+Leicester, United Kingdom
+Valencia, Spain
+Madison, WI, United States
+Berlin, Germany
+Graz, Austria
+Spokane, WA, United States
+Rio De Janeiro, Brazil
+Patras, Greece
+Austin, TX, United States
+Seoul, South Korea
+Hong Kong, Hong Kong
+Doha, Qatar
+Baltimore, MD, United States
+Sacramento, CA, United States
+Aachen, Germany
+Sao Paulo, Brazil
+Shenzhen, China
+Ljubljana, Slovenia
+Moscow, Russia
+Omaha, NE, United States
+San Diego, CA, United States
+New Orleans, LA, United States
+Detroit, MI, United States
+Los Angeles, CA, United States
+Dresden, Germany
+Cincinnati, OH, United States
+Jeddah (Jiddah), Saudi Arabia
+Orlando, FL, United States
+Sevilla, Spain
+San Juan, Puerto Rico
+Salt Lake City, UT, United States
+Pittsburgh, PA, United States
+Columbus, OH, United States
+Chicago, IL, United States
+Tampa, FL, United States
+Denver, CO, United States
+Montevideo, Uruguay
+Newark, NJ, United States
+Phoenix, AZ, United States
+Beijing, China
+Charlotte, NC, United States
+Asheville, NC, United States
+Houston, TX, United States
+Alicante, Spain
+Kansas City, MO, United States
+Brasilia, Brazil
+Beirut, Lebanon
+Indianapolis, IN, United States
+Lisbon, Portugal
+Dallas, TX, United States
+Raleigh, NC, United States
+San Antonio, TX, United States
+Baku, Azerbaijan
+Portland, OR, United States
+Atlanta, GA, United States
+Split, Croatia
+Dubai, United Arab Emirates
+Maribor, Slovenia
+Malaga, Spain
+Albuquerque, NM, United States
+Rochester, NY, United States
+Zagreb, Croatia
+Des Moines, IA, United States
+Coimbra, Portugal
+Zaragoza (Saragossa), Spain
+Milwaukee, WI, United States
+Buenos Aires, Argentina
+Campinas, Brazil
+Tallinn, Estonia
+Santa Cruz De Tenerife, Spain
+Riyadh, Saudi Arabia
+Bratislava, Slovakia
+Shanghai, China
+Porto, Portugal
+Porto Alegre, Brazil
+Istanbul, Turkey
+Braga, Portugal
+Khartoum, Sudan
+San Jose, Costa Rica
+Belo Horizonte, Brazil
+Saint Petersburg, Russia
+Riga, Latvia
+Rijeka, Croatia
+Pretoria, South Africa
+Santiago, Chile
+Taipei, Taiwan
+Kaunas, Lithuania
+Amman, Jordan
+Izmir, Turkey
+Johannesburg, South Africa
+Abu Dhabi, United Arab Emirates
+Kosice, Slovakia
+Florianopolis, Brazil
+Cordoba, Argentina
+Almaty, Kazakhstan
+Vilnius, Lithuania
+Prague, Czech Republic
+Curitiba, Brazil
+Salvador, Brazil
+Bogota, Colombia
+Brno, Czech Republic
+Budapest, Hungary
+Ulaanbaatar, Mongolia
+Santo Domingo, Dominican Republic
+Ankara, Turkey
+Debrecen, Hungary
+Yekaterinburg, Russia
+Guangzhou, China
+Tehran, Iran
+Petaling Jaya, Malaysia
+Warsaw, Poland
+Nairobi, Kenya
+Fortaleza, Brazil
+Bangkok, Thailand
+Monterrey, Mexico
+Cape Town, South Africa
+Ostrava, Czech Republic
+Wroclaw, Poland
+Antalya, Turkey
+Addis Ababa, Ethiopia
+Panama City, Panama
+Muscat, Oman
+Poznan, Poland
+Mexico City, Mexico
+Kuala Lumpur, Malaysia
+Phnom Penh, Cambodia
+Jakarta, Indonesia
+Medellin, Colombia
+Johor Bahru, Malaysia
+Belgrade, Serbia
+Dar Es Salaam, Tanzania
+Makati, Philippines
+Sarajevo, Bosnia And Herzegovina
+Lodz, Poland
+Gdansk, Poland
+Bucharest, Romania
+Novi Sad, Serbia
+Lima, Peru
+Brasov, Romania
+Tbilisi, Georgia
+Penang, Malaysia
+Iasi, Romania
+Guadalajara, Mexico
+Bialystok, Poland
+Tirana, Albania
+Skopje, Macedonia
+Sofia, Bulgaria
+Krakow (Cracow), Poland
+Kiev, Ukraine
+Gaborone, Botswana
+Varna, Bulgaria
+Cluj-napoca, Romania
+Szczecin, Poland
+Asuncion, Paraguay
+Odesa, Ukraine
+Timisoara, Romania
+Minsk, Belarus
+Yerevan, Armenia
+Cebu, Philippines
+Tunis, Tunisia
+Banja Luka, Bosnia And Herzegovina
+Lviv, Ukraine
+Colombo, Sri Lanka
+Pattaya, Thailand
+Casablanca, Morocco
+Esfahan, Iran
+Damascus, Syria
+Puerto Vallarta, Mexico
+Ho Chi Minh City, Vietnam
+Selangor, Malaysia
+Dhaka, Bangladesh
+Lublin, Poland
+Manila, Philippines
+Kharkiv, Ukraine
+Quito, Ecuador
+Hanoi, Vietnam
+Chisinau, Moldova
+Chiang Mai, Thailand
+Cairo, Egypt
+Cuenca, Ecuador
+Davao, Philippines
+Lahore, Pakistan
+Kathmandu, Nepal
+Gurgaon, India
+Islamabad, Pakistan
+Mumbai, India
+Noida, India
+Delhi, India
+Jaipur, India
+Karachi, Pakistan
+Vadodara, India
+Pune, India
+Chandigarh, India
+Ahmedabad, India
+Bangalore, India
+Nasik, India
+Chennai, India
+Indore, India
+Kochi, India
+Hyderabad, India
+Kolkata, India
+Coimbatore, India
+Thiruvananthapuram, India
+Nagpur, India
+Surat, India
