@@ -1,4 +1,4 @@
-import csv
+import csv, math
 
 """
     I mainly followed Javier De La Rosa's excellent tutorial on creating a Chrome WebGL Globe.
@@ -24,20 +24,29 @@ year[4] = []
 year[5] = []
 year[6] = []
 
-sums = {}
-sums[0] = 35373.59
-sums[1] = 31152.66
-sums[2] = 34881.52
-sums[3] = 27839.66
-sums[4] = 20608.45
-sums[5] = 8842.88
-sums[6] = 16171.04
+maxes = {}
+maxes[0] = 147.95
+maxes[1] = 163.55
+maxes[2] = 157.47
+maxes[3] = 189.23
+maxes[4] = 188.91
+maxes[5] = 149.26
+maxes[6] = 169.2
+
+mins = {}
+mins[0] = 20.06
+mins[1] = 20.81
+mins[2] = 21.17
+mins[3] = 28.35
+mins[4] = 30.2
+mins[5] = 28.48
+mins[6] = 29.82
 
 
 
 for x in range(7):
 	for lat, lon, col, in lines[x]:
-		year[x] += (lat, lon, str( float(col) / sums[x] ))
+		year[x] += ( lat, lon, str( (float(col) - mins[x]) / (maxes[x] - mins[x]) ))
     
 
 print """
@@ -49,6 +58,7 @@ print """
 ["2012", [%s]],
 ["2011", [%s]],
 ["2010", [%s]]
+]
 """ % (",".join(year[0]),
        ",".join(year[1]),
        ",".join(year[2]),
